@@ -188,4 +188,4 @@ If you use or adapt this macro, please cite:
 
 Benito-Martinez S., Salavessa L. et al., “Keratin intermediate filaments
 mechanically position melanin pigments for genome photoprotection” NCB
-(2025). [GitHub Repository Link]
+(2025). [GitHub Repository Link](https://github.com/laurasalavessa/3D-particles-nucleus.git)
