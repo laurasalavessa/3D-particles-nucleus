@@ -12,3 +12,7 @@ Pixel size subsampled image: 0.258 µm
 Z-step: 0.22 µm  
 Channels: red (keratin-5), green (µH2AX), blue (alpha-tubulin), grey
 (brightfield), cyan (DAPI).
+
+In example_data_results you can find the results obtained via the macro.
+The .csv result files were obtained from the original image.
+The .tif result images are subsampled as the subsampled image.
