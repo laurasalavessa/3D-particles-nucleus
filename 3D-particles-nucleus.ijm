@@ -9,7 +9,7 @@ run("Close All");
 run("Clear Results");
 roiManager("reset");
 
-newChannelArrangement = "32451"; // new order for channels, make sure foci/particles are in Ch2 and nuclei in Ch5
+newChannelArrangement = "12345"; // new order for channels, make sure foci/particles are in Ch2 and nuclei in Ch5
 
 // Asks the user to open an image
 path = File.openDialog("Select an image to analyze");
